@@ -1,0 +1,14 @@
+com/instagram/automation/userinterfaces/InstagramFormPage.java
+ com.instagram.automation.userinterfaces.InstagramFormPage
+com/instagram/automation/userinterfaces/InstagramAppsPage.java
+ com.instagram.automation.userinterfaces.InstagramAppsPage
+com/instagram/automation/tasks/GoTo.java
+ com.instagram.automation.tasks.GoTo
+com/instagram/automation/userinterfaces/InstagramHomePage.java
+ com.instagram.automation.userinterfaces.InstagramHomePage
+com/instagram/automation/models/DataInjection.java
+ com.instagram.automation.models.DataInjection
+com/instagram/automation/tasks/OpenTheBrowser.java
+ com.instagram.automation.tasks.OpenTheBrowser
+com/instagram/automation/tasks/WritePersonaData.java
+ com.instagram.automation.tasks.WritePersonaData
