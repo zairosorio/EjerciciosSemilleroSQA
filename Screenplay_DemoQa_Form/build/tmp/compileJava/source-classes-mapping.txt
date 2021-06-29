@@ -1,0 +1,14 @@
+com/demoqa/userinterface/PublicityClosePage.java
+ com.demoqa.userinterface.PublicityClosePage
+com/demoqa/userinterface/FormHomePage.java
+ com.demoqa.userinterface.FormHomePage
+com/demoqa/models/Datainjection.java
+ com.demoqa.models.Datainjection
+com/demoqa/task/PublicityClose.java
+ com.demoqa.task.PublicityClose
+com/demoqa/userinterface/HomePage.java
+ com.demoqa.userinterface.HomePage
+com/demoqa/interations/OpenTheBrowser.java
+ com.demoqa.interations.OpenTheBrowser
+com/demoqa/task/FormHomePageT.java
+ com.demoqa.task.FormHomePageT
